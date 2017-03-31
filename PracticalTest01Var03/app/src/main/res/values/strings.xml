@@ -2,4 +2,7 @@
     <string name="app_name">PracticalTest01Var03</string>
     <string name="navigate_to_secondary_activity">NAVIGATE TO SECONDARY ACTIVITY</string>
     <string name="display_information">DISPLAY INFORMATION</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_practical_test01_secondary">Practical Test 01 Var03 Secondary Activiry</string>
 </resources>
